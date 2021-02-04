@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Duck</string>
+    <string name="question">How would you like your tea served?</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+</resources>
