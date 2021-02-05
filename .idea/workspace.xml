@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand />
-    <select />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d2841f1-8014-4fb9-9b5c-fa80eb94c08c" name="Default Changelist" comment="" />
+    <list default="true" id="4b0b76b0-f3b4-43ca-ba45-d113bed8e580" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nzzu9Czq2F723Cx5FJ2dVykt1U" />
+  <component name="ProjectId" id="1o02BG8O7I87w1ALPtGekaZk120" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,18 +46,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1d2841f1-8014-4fb9-9b5c-fa80eb94c08c" name="Default Changelist" comment="" />
-      <created>1612407926686</created>
+      <changelist id="4b0b76b0-f3b4-43ca-ba45-d113bed8e580" name="Default Changelist" comment="" />
+      <created>1612409049183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612407926686</updated>
+      <updated>1612409049183</updated>
     </task>
     <servers />
   </component>
@@ -43,24 +65,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog" timestamp="1612408161465">
-      <screen x="0" y="25" width="1440" height="823" />
+    <state x="842" y="367" key="Github.CreatePullRequestDialog" timestamp="1612409375196">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="0" width="1440" height="900" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1612408161465" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1612408200482">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="842" y="367" key="Github.CreatePullRequestDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612409375196" />
+    <state x="898" y="288" key="git4idea.merge.GitPullDialog" timestamp="1612409328387">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1612408200482" />
-    <state x="448" y="343" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612408091753">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="898" y="288" key="git4idea.merge.GitPullDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612409328387" />
+    <state x="898" y="406" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612409135794">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="448" y="343" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1612408091753" />
+    <state x="898" y="406" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1612409135794" />
   </component>
 </project>
